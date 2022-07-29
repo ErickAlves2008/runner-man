@@ -1,0 +1,20 @@
+{
+  "game_settings": {
+    "start_speed": 8,
+    "limit_speed": 20
+  },
+  "player_data": {
+    "rounds_played": 0,
+    "max_points": 1.6439483274893745e+57,
+    "max_speed": 8,
+    "money": 200,
+    "skin": 0
+  },
+  "screen": [
+    1100,
+    700
+  ],
+  "clouds_quant": 3,
+  "mode": "day",
+  "fps": 60
+}
